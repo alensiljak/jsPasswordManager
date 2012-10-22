@@ -1,0 +1,3 @@
+/*
+	webSQL code
+*/
