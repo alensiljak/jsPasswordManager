@@ -1,6 +1,8 @@
 jsPasswordManager
 =================
 
+Introduction: http://alensiljak.blogspot.co.at/2012/10/cryptography-with-javascript.html
+
 Password Manager that runs in a browser
 
 The idea behind jsPasswordManager is to create a password manager that runs purely in an Internet browser. 
